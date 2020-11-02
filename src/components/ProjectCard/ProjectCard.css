@@ -1,0 +1,137 @@
+.project-card{
+    width: 100%;
+    /* border: 1px solid black; */
+    border-style: solid;
+    border-radius: 5%;
+    border-color: black;
+    box-shadow: 0px 0px 5px grey;
+}
+
+.project-card img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+.card-link{
+    color: #2F4F4F;
+    text-decoration: none;
+    text-align: center;
+    /* padding: 5px;
+    display: block;
+    padding-right:20px;  */
+}
+
+.card-link:hover {
+    color: #191970;
+    text-decoration: underline;
+ 
+}
+
+.inner-link-box{
+    display: flex;
+}
+
+.inner-link{
+
+    color: #1e90ff;
+    font-weight: bold;   
+    text-decoration: none;
+    text-align: center;
+    padding: 1%;
+    border-style: solid;
+    border-radius: 6px;
+    border-color:#2F4F4F;
+    margin: 3px;
+    /* padding: 5px;
+    display: block;
+    padding-right:20px;  */
+
+}
+
+
+.inner-link:hover {
+    color: #191970;
+    text-decoration: underline;
+ 
+}
+
+
+
+
+.single-project{
+    color:#2F4F4F;
+    margin: 10px;
+    padding: 10px;
+    /* border-style: solid;
+    border-radius: 5%;
+    border-color: black; */
+    display: flex;
+  
+    
+}
+
+
+
+.single-project-box{
+    
+    color:#2F4F4F;
+    margin: 10px;
+    padding: 10px;
+    /* border-style: solid;
+    border-radius: 5%;
+    border-color: black; */
+    width:50%;
+
+}
+
+
+.single-project img{
+    width: 75%;
+    height: 300px;
+    object-fit: cover;
+    border-style: solid;
+    border-radius: 5%;
+    border-color: black;
+  }
+
+  
+
+
+
+.single-user{
+    color:#2F4F4F;
+    margin: 10px;
+    padding: 10px;
+    /* border-style: solid;
+    border-radius: 5%;
+    border-color: black; */
+    display: flex;
+  
+    
+}
+
+
+
+.single-user-box{
+    
+    color:#2F4F4F;
+    margin: 10px;
+    padding: 10px;
+    /* border-style: solid;
+    border-radius: 5%;
+    border-color: black; */
+    width:50%;
+
+}
+
+
+.single-user img{
+    width: 50%;
+    height: 75%;
+    object-fit: cover;
+    border-style: solid;
+    border-radius: 5%;
+    border-color: pink;
+  }

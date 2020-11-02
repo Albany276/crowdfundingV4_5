@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+.topnav {
+
+    overflow: hidden;
+}
+
+.topnav-right {
+    float: right;
+  }
+
+
+nav {
+    font-family: 'Righteous', cursive;
+    /* margin: 10px; */
+    /* padding: 10px; */
+    font-size: 1.5rem;
+    /* display:flex;
+    flex-direction: row; */
+    
+}
+
+nav a {
+    float: left;
+    color: #1e90ff;
+    text-decoration: none;
+    padding: 5px;
+    /* display: block; */
+    padding-right:20px;
+}
+nav a:hover {
+    color: #191970;
+    text-decoration: underline;
+    /* border-bottom: solid  #191970; */
+}
+
